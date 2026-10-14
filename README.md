@@ -56,4 +56,4 @@ I continue to develop my mathematics and statistics on the Open University's BSc
 ## Links
 
 - Portfolio: https://matthewiredale.com
-- LinkedIn: [[add your LinkedIn URL]](http://linkedin.com/in/matt-iredale-29b04224b)
+- LinkedIn: [[http://linkedin.com/in/matt-iredale-29b04224b]]
