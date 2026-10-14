@@ -1,6 +1,6 @@
 # Hi, I'm Matt
 
-I'm a Data and Operations Analyst building toward an end-to-end skillset across analytics, modelling and AI.
+I'm a Data and Operations Analyst building toward an end-to-end skill set across analytics, modelling and AI.
 
 I enjoy working with messy real-world data, automating repetitive processes, designing reliable data structures and turning complex information into something useful for decision-making.
 
@@ -56,4 +56,4 @@ I continue to develop my mathematics and statistics on the Open University's BSc
 ## Links
 
 - Portfolio: https://matthewiredale.com
-- LinkedIn: [[http://linkedin.com/in/matt-iredale-29b04224b]]
+- LinkedIn: http://linkedin.com/in/matt-iredale-29b04224b
