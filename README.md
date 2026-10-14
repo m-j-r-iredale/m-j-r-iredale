@@ -1,6 +1,6 @@
-# Hi, I'm Matthew
+# Hi, I'm Matt
 
-I'm a data and operations analyst building toward an end-to-end skillset across analytics, modelling and AI.
+I'm a Data and Operations Analyst building toward an end-to-end skillset across analytics, modelling and AI.
 
 I enjoy working with messy real-world data, automating repetitive processes, designing reliable data structures and turning complex information into something useful for decision-making.
 
