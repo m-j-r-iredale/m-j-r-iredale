@@ -4,7 +4,7 @@ I'm a Data and Operations Analyst building toward an end-to-end skill set across
 
 I enjoy working with messy real-world data, automating repetitive processes, designing reliable data structures and turning complex information into something useful for decision-making.
 
-My background is a little unconventional: before moving into data, I worked in SEO, content and copywriting. That experience still shapes how I work today, especially when it comes to clearly communicating complex ideas to stakeholders. I retrained in Economics, doing my masters at the LSE, and am now a full time Data Analyst.
+My background is a little unconventional: before moving into data, I worked in SEO, content and copywriting. That experience still shapes how I work today, especially when it comes to clearly communicating complex ideas to stakeholders. I retrained in Economics (at university part-time), doing my masters in Development and Economics at the LSE, and am now a full time Data Analyst.
 
 ## What I'm working with
 
